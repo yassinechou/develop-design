@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/develop-design/static/css/main.953716ed.css",
+    "main.js": "/develop-design/static/js/main.b9aa8adc.js",
+    "static/media/mountain_right.png": "/develop-design/static/media/mountain_right.36d28893a7e373ec5130.png",
+    "static/media/bg.jpg": "/develop-design/static/media/bg.78297bd8b85ecd0e2397.jpg",
+    "static/media/mountain_left.png": "/develop-design/static/media/mountain_left.941d0a55db9c0439f3bf.png",
+    "static/media/parallax12.jpg": "/develop-design/static/media/parallax12.b1b6d377151eecbb1ce2.jpg",
+    "static/media/parallax3.jpg": "/develop-design/static/media/parallax3.dbb454430e4d68051caa.jpg",
+    "static/media/man.png": "/develop-design/static/media/man.6660389f352f22756b2f.png",
+    "static/media/clouds_2.png": "/develop-design/static/media/clouds_2.42189f40a3bbaaa07322.png",
+    "static/media/clouds_1.png": "/develop-design/static/media/clouds_1.dffd06376caa2d0df623.png",
+    "static/media/wavesAnimate.png": "/develop-design/static/media/wavesAnimate.e433c5e4cff7e8ff78ce.png",
+    "index.html": "/develop-design/index.html",
+    "main.953716ed.css.map": "/develop-design/static/css/main.953716ed.css.map",
+    "main.b9aa8adc.js.map": "/develop-design/static/js/main.b9aa8adc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.953716ed.css",
+    "static/js/main.b9aa8adc.js"
+  ]
+}
